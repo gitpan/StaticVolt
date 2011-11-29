@@ -1,4 +1,5 @@
 Build.PL
+CHANGES
 LICENSE
 MANIFEST
 META.json
@@ -14,6 +15,7 @@ lib/StaticVolt/Convertor/Textile.pm
 t/00.load.t
 t/01.config.t
 t/02.compile.t
+t/03.staticvolt.t
 t/_includes/corge
 t/_layouts/baz.html
 t/_site/foo.html

@@ -20,8 +20,8 @@ my %module_build_args = (
     "Alan Haggai Alavi <alanhaggai\@alanhaggai.org>"
   ],
   "dist_name" => "StaticVolt",
-  "dist_version" => "0.01",
-  "license" => "perl",
+  "dist_version" => "0.02",
+  "license" => "artistic_2",
   "module_name" => "StaticVolt",
   "recommends" => {},
   "recursive_test_files" => 1,

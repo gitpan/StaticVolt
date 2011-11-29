@@ -170,7 +170,7 @@ StaticVolt - Static website generator
 
 =head1 VERSION
 
-version 0.01
+version 0.02
 
 =head1 SYNOPSIS
 
@@ -375,6 +375,10 @@ I<FooBar>:
 
 L<StaticVolt> is inspired by Tom Preston-Werner's L<Jekyll|http://jekyllrb.com/>.
 
+=head1 Acknowledgements
+
+L<Shlomi Fish|http://www.shlomifish.org/> for suggesting change of licence.
+
 =head1 See Also
 
 L<Template Toolkit|Template>
@@ -385,10 +389,11 @@ Alan Haggai Alavi <alanhaggai@alanhaggai.org>
 
 =head1 COPYRIGHT AND LICENSE
 
-This software is copyright (c) 2011 by Alan Haggai Alavi.
+This software is Copyright (c) 2011 by Alan Haggai Alavi.
 
-This is free software; you can redistribute it and/or modify it under
-the same terms as the Perl 5 programming language system itself.
+This is free software, licensed under:
+
+  The Artistic License 2.0 (GPL Compatible)
 
 =cut
 

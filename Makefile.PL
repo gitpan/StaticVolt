@@ -24,7 +24,7 @@ my %WriteMakefileArgs = (
   "EXE_FILES" => [
     "bin/staticvolt"
   ],
-  "LICENSE" => "perl",
+  "LICENSE" => "artistic_2",
   "NAME" => "StaticVolt",
   "PREREQ_PM" => {
     "Cwd" => 0,
@@ -38,7 +38,7 @@ my %WriteMakefileArgs = (
     "Text::Textile" => 0,
     "YAML" => 0
   },
-  "VERSION" => "0.01",
+  "VERSION" => "0.02",
   "test" => {
     "TESTS" => "t/*.t"
   }
