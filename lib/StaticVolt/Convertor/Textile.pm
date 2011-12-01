@@ -1,6 +1,9 @@
 # ABSTRACT: StaticVolt convertor for textile
 
 package StaticVolt::Convertor::Textile;
+{
+  $StaticVolt::Convertor::Textile::VERSION = '0.03';
+}
 
 use strict;
 use warnings;
@@ -28,7 +31,7 @@ StaticVolt::Convertor::Textile - StaticVolt convertor for textile
 
 =head1 VERSION
 
-version 0.02
+version 0.03
 
 =head1 Registered Extensions
 

@@ -1,6 +1,9 @@
 # ABSTRACT: Base class for StaticVolt convertors
 
 package StaticVolt::Convertor;
+{
+  $StaticVolt::Convertor::VERSION = '0.03';
+}
 
 use strict;
 use warnings;
@@ -43,7 +46,7 @@ StaticVolt::Convertor - Base class for StaticVolt convertors
 
 =head1 VERSION
 
-version 0.02
+version 0.03
 
 =head1 METHODS
 

@@ -1,6 +1,9 @@
 # ABSTRACT: StaticVolt convertor for markdown
 
 package StaticVolt::Convertor::Markdown;
+{
+  $StaticVolt::Convertor::Markdown::VERSION = '0.03';
+}
 
 use strict;
 use warnings;
@@ -28,7 +31,7 @@ StaticVolt::Convertor::Markdown - StaticVolt convertor for markdown
 
 =head1 VERSION
 
-version 0.02
+version 0.03
 
 =head1 Registered Extensions
 

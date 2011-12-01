@@ -20,7 +20,7 @@ my %module_build_args = (
     "Alan Haggai Alavi <alanhaggai\@alanhaggai.org>"
   ],
   "dist_name" => "StaticVolt",
-  "dist_version" => "0.02",
+  "dist_version" => "0.03",
   "license" => "artistic_2",
   "module_name" => "StaticVolt",
   "recommends" => {},
