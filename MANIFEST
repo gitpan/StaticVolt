@@ -6,6 +6,7 @@ META.json
 META.yml
 Makefile.PL
 README
+README.md
 bin/staticvolt
 dist.ini
 lib/StaticVolt.pm
@@ -15,6 +16,10 @@ lib/StaticVolt/Convertor/Textile.pm
 t/00.load.t
 t/01.config.t
 t/02.compile.t
+t/03.relbase.t
 t/_includes/corge
 t/_layouts/baz.html
+t/_site/foo.html
+t/_site/subdir1/bar.html
 t/_source/foo.markdown
+t/_source/subdir1/bar.markdown

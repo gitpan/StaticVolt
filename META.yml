@@ -1,7 +1,7 @@
 ---
 abstract: 'Static website generator'
 author:
-  - 'Alan Haggai Alavi <alanhaggai@alanhaggai.org>'
+  - 'Alan Haggai Alavi <haggai@cpan.org>'
 build_requires:
   ExtUtils::MakeMaker: 6.31
   Module::Build: 0.3601
@@ -10,7 +10,7 @@ configure_requires:
   ExtUtils::MakeMaker: 6.30
   Module::Build: 0.3601
 dynamic_config: 0
-generated_by: 'Dist::Zilla version 4.300000, CPAN::Meta::Converter version 2.110440'
+generated_by: 'Dist::Zilla version 4.300035, CPAN::Meta::Converter version 2.131560'
 license: artistic_2
 meta-spec:
   url: http://module-build.sourceforge.net/META-spec-v1.4.html
@@ -29,4 +29,4 @@ requires:
   YAML: 0
 resources:
   repository: git://github.com/alanhaggai/StaticVolt.git
-version: 0.03
+version: 1.00

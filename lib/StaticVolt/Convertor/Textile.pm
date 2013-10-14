@@ -2,7 +2,7 @@
 
 package StaticVolt::Convertor::Textile;
 {
-  $StaticVolt::Convertor::Textile::VERSION = '0.03';
+  $StaticVolt::Convertor::Textile::VERSION = '1.00';
 }
 
 use strict;
@@ -21,7 +21,7 @@ __PACKAGE__->register(qw/ textile /);
 
 1;
 
-
+__END__
 
 =pod
 
@@ -31,7 +31,7 @@ StaticVolt::Convertor::Textile - StaticVolt convertor for textile
 
 =head1 VERSION
 
-version 0.03
+version 1.00
 
 =head1 Registered Extensions
 
@@ -43,18 +43,14 @@ version 0.03
 
 =head1 AUTHOR
 
-Alan Haggai Alavi <alanhaggai@alanhaggai.org>
+Alan Haggai Alavi <haggai@cpan.org>
 
 =head1 COPYRIGHT AND LICENSE
 
-This software is Copyright (c) 2011 by Alan Haggai Alavi.
+This software is Copyright (c) 2013 by Alan Haggai Alavi.
 
 This is free software, licensed under:
 
   The Artistic License 2.0 (GPL Compatible)
 
 =cut
-
-
-__END__
-

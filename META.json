@@ -1,10 +1,10 @@
 {
    "abstract" : "Static website generator",
    "author" : [
-      "Alan Haggai Alavi <alanhaggai@alanhaggai.org>"
+      "Alan Haggai Alavi <haggai@cpan.org>"
    ],
    "dynamic_config" : 0,
-   "generated_by" : "Dist::Zilla version 4.300000, CPAN::Meta::Converter version 2.110440",
+   "generated_by" : "Dist::Zilla version 4.300035, CPAN::Meta::Converter version 2.131560",
    "license" : [
       "artistic_2"
    ],
@@ -28,21 +28,21 @@
       },
       "runtime" : {
          "requires" : {
-            "Cwd" : 0,
-            "File::Copy" : 0,
-            "File::Find" : 0,
-            "File::Path" : 0,
-            "File::Spec" : 0,
-            "FindBin" : 0,
-            "Template" : 0,
-            "Text::Markdown" : 0,
-            "Text::Textile" : 0,
-            "YAML" : 0
+            "Cwd" : "0",
+            "File::Copy" : "0",
+            "File::Find" : "0",
+            "File::Path" : "0",
+            "File::Spec" : "0",
+            "FindBin" : "0",
+            "Template" : "0",
+            "Text::Markdown" : "0",
+            "Text::Textile" : "0",
+            "YAML" : "0"
          }
       },
       "test" : {
          "requires" : {
-            "Test::More" : 0
+            "Test::More" : "0"
          }
       }
    },
@@ -54,6 +54,6 @@
          "web" : "http://github.com/alanhaggai/StaticVolt"
       }
    },
-   "version" : "0.03"
+   "version" : "1.00"
 }
 
